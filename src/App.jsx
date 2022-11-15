@@ -1,6 +1,6 @@
 import { useState } from 'react'
 import reactLogo from './assets/react.svg'
-import './App.css'
+
 import { HomeComponent } from './components'
 import { RoutesComponet } from './router/RoutesComponet'
 
